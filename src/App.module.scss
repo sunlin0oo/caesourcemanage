@@ -1,0 +1,8 @@
+/* 对于标签选择器力不从心 */
+$width:300px;
+ul{
+    .item{
+        width: $width;
+        background-color: red;
+    }
+}
